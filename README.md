@@ -2,14 +2,15 @@
 
 ### stuff I've built
 
-- **[MastersPrediction](https://github.com/davidyangHY/MastersPrediction)** — I taught
-  two models to predict the Masters from strokes-gained stats. They both think Scottie
-  Scheffler is a problem for everyone else. They're probably right.
+- **[hiring-leaderboard](https://github.com/davidyangHY/hiring-leaderboard)** — a daily
+  pipeline that turns 100+ company job boards into a ranked view of who's hiring fastest.
+  ([live demo](https://hiring-leaderboard.vercel.app/))
+- **[MastersPrediction](https://github.com/davidyangHY/MastersPrediction)** — predicts
+  Masters tournament scores from strokes-gained data using LASSO and XGBoost.
 - **[kalshi-btc-mean-reversion](https://github.com/davidyangHY/kalshi-btc-mean-reversion)** —
   poking at whether Bitcoin overreacts on 15-minute Kalshi markets, then backtesting the poke.
-- **[RestaurantAI](https://github.com/davidyangHY/RestaurantAI)** — a full-stack AI
-  assistant for restaurant procurement, because someone has to think about the groceries.
-  Flask backend, Flutter app, the whole kitchen.
+- **[RestaurantAI](https://github.com/davidyangHY/RestaurantAI)** — full-stack AI assistant
+  for restaurant procurement; Flask backend, Flutter app.
 
 ### things I reach for
 
