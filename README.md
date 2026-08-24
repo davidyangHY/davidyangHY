@@ -1,7 +1,5 @@
 # hey, I'm David
 
-I recently graduated from USC.
-
 ### stuff I've built
 
 - **[hiring-leaderboard](https://github.com/davidyangHY/hiring-leaderboard)** — a daily
