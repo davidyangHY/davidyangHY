@@ -1,5 +1,7 @@
 # hey, I'm David
 
+I recently graduated from USC.
+
 ### stuff I've built
 
 - **[hiring-leaderboard](https://github.com/davidyangHY/hiring-leaderboard)** — a daily
@@ -11,10 +13,6 @@
   poking at whether Bitcoin overreacts on 15-minute Kalshi markets, then backtesting the poke.
 - **[RestaurantAI](https://github.com/davidyangHY/RestaurantAI)** — full-stack AI assistant
   for restaurant procurement; Flask backend, Flutter app.
-
-### things I reach for
-
-Python, pandas, scikit-learn, XGBoost, SQL, and a frankly unreasonable amount of matplotlib.
 
 ### say hi
 
