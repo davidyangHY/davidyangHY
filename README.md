@@ -14,7 +14,5 @@
 
 ### say hi
 
-Always up for talking data, golf, or questionable trading ideas.
-
 - LinkedIn: [david-yang11](https://www.linkedin.com/in/david-yang11/)
 - Email: davidyang356@gmail.com
