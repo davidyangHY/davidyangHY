@@ -8,7 +8,7 @@
 - **[MastersPrediction](https://github.com/davidyangHY/MastersPrediction)** — predicts
   Masters tournament scores from strokes-gained data using LASSO and XGBoost.
 - **[kalshi-btc-mean-reversion](https://github.com/davidyangHY/kalshi-btc-mean-reversion)** —
-  poking at whether Bitcoin overreacts on 15-minute Kalshi markets, then backtesting the poke.
+  poking at whether Bitcoin overreacts on 15-minute Kalshi markets, then backtesting the poke on a paper-kalshi sim.
 - **[RestaurantAI](https://github.com/davidyangHY/RestaurantAI)** — full-stack AI assistant
   for restaurant procurement; Flask backend, Flutter app.
 - **[daily-bible](https://github.com/davidyangHY/daily-bible)** — desktop Bible app
