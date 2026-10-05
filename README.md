@@ -13,7 +13,7 @@
   for restaurant procurement; Flask backend, Flutter app.
 - **[daily-bible](https://github.com/davidyangHY/daily-bible)** — desktop Bible app
   with daily reading plans, search, bookmarks, and AI explanations of what you're reading.
-- **CodeDrill** — app for SQL/Python LeetCode practice with an adaptive AI tutor
+- **[codedrill](https://github.com/davidyangHY/codedrill)** — app for SQL/Python LeetCode practice with an adaptive AI tutor
   that picks problems based on your weak spots.
 
 ### say hi
